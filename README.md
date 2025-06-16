@@ -93,15 +93,15 @@ Analisis ini merupakan analisis pada tiap fitur dengan tujuan untuk mengetahui k
 
 - **Melihat genre unik dalam data**
 
-![Screenshot 2025-05-31 at 14-39-01 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/6fa0a7cf-f489-4d75-9f65-d65445de545e)
+  ![Screenshot 2025-05-31 at 14-39-01 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/80f00e1c-4677-46ab-b818-edeea4225a0b)
 
 - **Top 10 userId pemberi rating terbanyak**
 
-![Screenshot 2025-05-31 at 14-32-32 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/26b2e965-0140-4fd5-a24a-fc09dfcf1277)
+  ![Screenshot 2025-05-31 at 14-32-32 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/3c0b6bcf-0384-4133-8e0b-9f8164c75cdb)
 
 - **Distribusi rating dalam dataset**
 
-![Screenshot 2025-05-31 at 14-38-09 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/f660488b-0a1d-4a43-8aea-b2a8d25518a3)
+  ![Screenshot 2025-05-31 at 14-38-09 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/ab6eda82-ca64-40ca-8700-df74191a6bf4)
 
 Dari analisis univariate yang dilakukan didapatkan beberapa poin, sebagai berikut:
 
@@ -119,13 +119,13 @@ Analisis Multivariate adalah jenis analisis statistik atau eksplorasi data yang 
 
 - **Top 10 film dengan rating terbaik diurutkan berdasarkan rating dan jumlah rating**
 
-![Screenshot 2025-05-31 at 14-43-34 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/513d8a51-7312-4859-9f2a-cd58f0e929d9)
+  ![Screenshot 2025-05-31 at 14-43-34 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/2e3c8d2c-388f-48e8-af50-f740f9992eb0)
 
 Dari gambar di atas, ditemukan bahwa Belle époque (1992), Come and See (Idi i smotri) (1985), Enter the Void (2009), Heidi Fleiss: Hollywood Madam (1995), Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976), Lamerica (1994), dan Lesson Faust (1994) merupakan film dengan rating terbaik (5.0) jika diurutkan berdasarkan rating dan jumlah rating. Jumlah rating yang dimiliki oleh film tersebut adalah 2, yang mana sangat sedikit
 
 - **Top 10 paling banyak diberi rating**
 
-![Screenshot 2025-05-31 at 14-45-30 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/196ffa9c-023b-43fa-bafe-757fb6323eaf)
+  ![Screenshot 2025-05-31 at 14-45-30 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/25bb5d4c-7bc4-4350-a7ae-8c0c61180708)
 
 Dari gambar di atas, ditemukan bahwa Forrest Gump (1994) merupakan film yang memiliki jumlah rating terbanyak yang diberikan pengguna (329 rating), disusul oleh Shawshank Redemption, The (1994) (317 rating), dan Pulp Fiction (1994) (307 rating)
 
@@ -345,7 +345,7 @@ Terlihat pada tabel di atas, bahwa Jumlah rekomendasi yang relevan adalah adalah
 
 Pada bagian evaluasi collaborative filtering ini, digunakan metrik RMSE. Dari proses pelatihan dan validasi didapatkan grafik RMSE sebagai berikut.
 
-![Screenshot 2025-05-31 at 16-46-06 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/b79faad3-5cbd-4384-8c8c-b093ede2da21)
+![Screenshot 2025-05-31 at 16-46-06 Submission_Recommendation_System ipynb - Colab](https://github.com/user-attachments/assets/d8499d8e-cf3c-49c0-81ff-d36486f338ff)
 
 Dari gambar grafik pelatihan tersebut RMSE dapat diketahui beberapa poin sebagai berikut:
 
